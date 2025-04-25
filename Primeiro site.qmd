@@ -1,0 +1,55 @@
+---
+title: "Telecomunicações no Brasil"
+format: 
+  html:
+    page-layout: full
+    css: styles.css
+---
+
+## Maria Eduarda Viana Gonçalves
+
+**📊 Variáveis utilizadas e suas fontes**
+
+As variáveis utilizadas são:
+
+**IT.MLT.MAIN** – **Fixed telephone subscriptions (per 100 people)**
+
+Nome no Banco Mundial: *Assinaturas de telefone fixo (por 100 pessoas)*
+
+**Descrição**: Refere-se ao número de linhas telefônicas fixas ativas (aquelas que estão conectadas e têm capacidade para receber chamadas).
+
+[Fonte no site do Banco Mundial](https://data.worldbank.org/indicator/IT.MLT.MAIN)
+
+**IT.CEL.SETS** – **Mobile cellular subscriptions (per 100 people)**
+
+Nome no Banco Mundial: *Assinaturas de celular (por 100 pessoas)*
+
+**Descrição**: Refere-se ao número de linhas de celular ativas (aquelas que foram usadas nos últimos 3 meses).
+
+[Fonte no site do Banco Mundial](https://data.worldbank.org/indicator/IT.CEL.SETS)
+
+Essas variáveis estão disponíveis por país e por ano, e o Banco Mundial coleta esses dados a partir de órgãos nacionais de estatística e agências reguladoras de telecomunicações.
+
+## 📡 Evolução das Telecomunicações no Brasil (1961–2022)
+
+::: {style="text-align: center;"}
+![Gráfico da evolução das telecomunicações](evolução%20da%20tel.png){style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
+:::
+
+**Resumo da evolução das telecomunicações no Brasil (1961–2022):**
+
+O gráfico mostra um crescimento lento do telefone fixo até os anos 90, seguido por um **salto expressivo nas assinaturas de celular a partir dos anos 2000**. Esse aumento foi impulsionado pela **privatização do setor**, maior **acessibilidade** aos aparelhos e planos, e pela **popularização da internet móvel**. Com o tempo, observa-se a **substituição do telefone fixo pelo celular**, marcando uma mudança tecnológica no país.
+
+------------------------------------------------------------------------
+
+## ☎️ Dispersão entre Linhas Fixas e Celulares (2022)
+
+::: {style="text-align: center;"}
+![Gráfico da dispersão entre linhas fixas e móveis](dispersão%20entre%20linhas.png){style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"}
+:::
+
+**Distribuição global de telecomunicações em 2022:**
+
+O gráfico revela uma clara **predominância das assinaturas de telefonia móvel em relação às fixas** na maioria dos países. Esse padrão evidencia a **mudança nos hábitos de comunicação da população mundial**, com o celular tornando-se a principal forma de acesso à informação e contato. A modernização do setor, aliada à maior acessibilidade dos dispositivos móveis, contribuiu para a **substituição gradual das linhas fixas**, especialmente em países em desenvolvimento.
+
+------------------------------------------------------------------------
